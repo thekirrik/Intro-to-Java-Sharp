@@ -16,7 +16,7 @@
 
 using System;
 
-namespace Exercise03 {
+namespace Chapter02 {
 	internal class Exercise03 {
 		private static void Main(string[] args) {
 			// prints out ascii art

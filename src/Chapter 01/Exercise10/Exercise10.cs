@@ -8,7 +8,7 @@
 
 using System;
 
-namespace Exercise10 {
+namespace Chapter02 {
 	internal class Exercise10 {
 		private static void Main(string[] args) {
 			// idk if this is right but i'm just going to leave

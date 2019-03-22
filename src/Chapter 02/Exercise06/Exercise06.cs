@@ -9,7 +9,7 @@
 
 using System;
 
-namespace Exercise06 {
+namespace Chapter02 {
 	internal class Exercise06 {
 		private static void Main(string[] args) {
 			Console.WriteLine("Enter number: ");

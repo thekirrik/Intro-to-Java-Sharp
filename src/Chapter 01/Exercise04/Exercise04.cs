@@ -14,7 +14,7 @@
 
 using System;
 
-namespace Exercise04 {
+namespace Chapter02 {
 	internal class Exercise04 {
 		private static void Main(string[] args) {
 			Console.WriteLine("a\ta^2\ta^3");

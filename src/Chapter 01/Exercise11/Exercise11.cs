@@ -13,7 +13,7 @@
 
 using System;
 
-namespace Exercise11 {
+namespace Chapter02 {
 	internal class Exercise11 {
 		private static void Main(string[] args) {
 			// calculates the total population each year

@@ -9,7 +9,7 @@
 
 using System;
 
-namespace Exercise07 {
+namespace Chapter02 {
 	internal class Exercise07 {
 		private static void Main(string[] args) {
 			Console.WriteLine("Enter number of minutes: ");

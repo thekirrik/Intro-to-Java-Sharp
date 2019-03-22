@@ -12,7 +12,7 @@
 
 using System;
 
-namespace Exercise08 {
+namespace Chapter02 {
 	internal class Exercise08 {
 		private static void Main(string[] args) {
 			// calculates the perimeter and area of a circle using Math.PI and Math.Pow

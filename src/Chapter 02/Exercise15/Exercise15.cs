@@ -11,8 +11,8 @@
 
 using System;
 
-namespace Exercise15 {
-	internal class Exercise15 {
+namespace Chapter02 {
+	public class Exercise15 {
 		private static void Main(string[] args) {
 			Console.Write("Enter x1 & y1: ");
 			var str = Console.ReadLine();
@@ -24,10 +24,10 @@ namespace Exercise15 {
 			var x2 = double.Parse(str.Split(' ')[0]);
 			var y2 = double.Parse(str.Split(' ')[1]);
 
-			Console.WriteLine($"Distance between points: {calcDistance(x1, x2, y1, y2)}");
+			Console.WriteLine($"Distance between points: {CalcDistance(x1, x2, y1, y2)}");
 		}
 
-		private static double calcDistance(double x1, double x2, double y1, double y2) {
+		public static double CalcDistance(double x1, double x2, double y1, double y2) {
 			return Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2));
 		}
 	}

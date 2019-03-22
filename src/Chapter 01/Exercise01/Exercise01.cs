@@ -8,7 +8,7 @@
 
 using System;
 
-namespace Exercise01 {
+namespace Chapter02 {
 	internal class Exercise01 {
 		private static void Main(string[] args) {
 			// print the required strings

@@ -7,7 +7,7 @@
 
 using System;
 
-namespace Exercise02 {
+namespace Chapter02 {
 	internal class Exercise02 {
 		private static void Main(string[] args) {
 			// prints the same message 5 times

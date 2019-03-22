@@ -10,7 +10,7 @@
 
 using System;
 
-namespace Exercise01 {
+namespace Chapter02 {
 	internal class Exercise01 {
 		private static void Main(string[] args) {
 			Console.WriteLine("Enter temperature in Celsius: ");

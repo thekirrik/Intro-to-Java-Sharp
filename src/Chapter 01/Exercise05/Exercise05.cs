@@ -10,7 +10,7 @@
 
 using System;
 
-namespace Exercise05 {
+namespace Chapter02 {
 	internal class Exercise05 {
 		private static void Main(string[] args) {
 			Console.WriteLine("9.5 X 4.5 - 2.5 X 3");

@@ -18,7 +18,7 @@
 
 using System;
 
-namespace Exercise13 {
+namespace Chapter02 {
 	internal class Exercise13 {
 		private static void Main(string[] args) {
 			Console.WriteLine("Enter monthly saving amount: ");

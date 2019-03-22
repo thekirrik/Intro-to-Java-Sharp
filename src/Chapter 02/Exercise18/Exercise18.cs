@@ -1,5 +1,5 @@
 ﻿/*
- * Program:	Exercise17.cs
+ * Program:	Exercise18.cs
  * Author:	Æsc Æðelstan
  * Date:	2019/03/19
  * Purpose:	(Print a table) Write a program that displays the following table. Cast floating-
@@ -14,7 +14,7 @@
 
 using System;
 
-namespace Exercise18 {
+namespace Chapter02 {
 	internal class Exercise18 {
 		private static void Main(string[] args) {
 			Console.WriteLine("a\tb\tpow(a,b)");

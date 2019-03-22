@@ -13,7 +13,7 @@
 
 using System;
 
-namespace Exercise10 {
+namespace Chapter02 {
 	internal class Exercise10 {
 		private static void Main(string[] args) {
 			Console.WriteLine("Enter weight of water: ");

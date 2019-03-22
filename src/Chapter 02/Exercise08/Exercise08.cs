@@ -9,7 +9,7 @@
 
 using System;
 
-namespace Exercise08 {
+namespace Chapter02 {
 	internal class Exercise08 {
 		private static void Main(string[] args) {
 			Console.WriteLine("Enter timezone offset to UTC: ");

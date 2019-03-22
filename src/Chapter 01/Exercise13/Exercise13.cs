@@ -15,7 +15,7 @@
 
 using System;
 
-namespace Exercise13 {
+namespace Chapter02 {
 	internal class Exercise13 {
 		private static void Main(string[] args) {
 			// uses Cramer's rule to solve for x and y 

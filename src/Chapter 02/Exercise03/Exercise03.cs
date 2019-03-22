@@ -14,10 +14,10 @@ namespace Chapter02 {
 			Console.WriteLine("Enter number of feet: ");
 			var feet = double.Parse(Console.ReadLine());
 
-			Console.WriteLine(feet + "ft is " + convertToMeters(feet) + "m");
+			Console.WriteLine(feet + "ft is " + ConvertToMeters(feet) + "m");
 		}
 
-		private static double convertToMeters(double feet) {
+		private static double ConvertToMeters(double feet) {
 			return feet * 0.305;
 		}
 	}

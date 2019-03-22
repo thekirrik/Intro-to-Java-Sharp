@@ -21,15 +21,15 @@ namespace Chapter02 {
 			Console.WriteLine("Enter length: ");
 			var length = double.Parse(Console.ReadLine());
 
-			Console.WriteLine("Area: "   + calcArea(radius));
-			Console.WriteLine("Volume: " + calcVolume(calcArea(radius), length));
+			Console.WriteLine("Area: "   + CalcArea(radius));
+			Console.WriteLine("Volume: " + CalcVolume(CalcArea(radius), length));
 		}
 
-		private static double calcArea(double radius) {
+		private static double CalcArea(double radius) {
 			return Math.Pow(radius, 2) * Math.PI;
 		}
 
-		private static double calcVolume(double area, double length) {
+		private static double CalcVolume(double area, double length) {
 			return area * length;
 		}
 	}

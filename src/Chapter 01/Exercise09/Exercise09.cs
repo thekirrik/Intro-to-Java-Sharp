@@ -12,7 +12,6 @@ using System;
 namespace Exercise09 {
 	internal class Exercise09 {
 		private static void Main(string[] args) {
-			// calculates the area of a rectangle
 			const double height = 7.9;
 			const double width  = 4.5;
 

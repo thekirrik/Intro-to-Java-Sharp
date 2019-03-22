@@ -15,10 +15,10 @@ namespace Chapter02 {
 		private static void Main(string[] args) {
 			Console.WriteLine("Enter temperature in Celsius: ");
 			var celsius = double.Parse(Console.ReadLine());
-			Console.WriteLine(celsius + " in fahrenheit is " + convertToFahrenheit(celsius));
+			Console.WriteLine(celsius + " in fahrenheit is " + ConvertToFahrenheit(celsius));
 		}
 
-		private static double convertToFahrenheit(double celsius) {
+		private static double ConvertToFahrenheit(double celsius) {
 			return 9d / 5d * celsius + 32;
 		}
 	}

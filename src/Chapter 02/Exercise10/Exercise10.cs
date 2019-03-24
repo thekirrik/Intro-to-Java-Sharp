@@ -25,10 +25,10 @@ namespace Chapter02 {
 			Console.WriteLine("Enter final temperature");
 			var finalTemperature = double.Parse(Console.ReadLine());
 
-			Console.WriteLine($"Energy needed: {calculateEnergyNeeded(m, initialTemperature, finalTemperature)}J");
+			Console.WriteLine($"Energy needed: {CalculateEnergyNeeded(m, initialTemperature, finalTemperature)}J");
 		}
 
-		private static double calculateEnergyNeeded(double m, double initialTemperature,
+		private static double CalculateEnergyNeeded(double m, double initialTemperature,
 		                                            double finalTemperature) {
 			return m * (finalTemperature - initialTemperature) * 4184d;
 		}

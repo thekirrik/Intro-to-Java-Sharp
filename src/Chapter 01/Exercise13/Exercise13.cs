@@ -32,9 +32,9 @@ namespace Chapter02 {
 			Console.WriteLine(c + "x + " + d + "y = " + f + "\n");
 
 			Console.WriteLine("Cramer's Rule:");
-			x = (e * d               - b * f) / (a * d - b * c);
+			x = (e * d - b * f) / (a * d - b * c);
 			Console.WriteLine("x = " + x);
-			y = (a * f               - e * c) / (a * d - b * c);
+			y = (a * f - e * c) / (a * d - b * c);
 			Console.WriteLine("y = " + y);
 		}
 	}

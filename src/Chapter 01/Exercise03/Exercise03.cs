@@ -1,6 +1,5 @@
 ﻿/*
  * Program: Exercise03.cs
- * Author:  Æsc Æðelstan
  * Date:    2019/03/19
  * Purpose: (Display a pattern) Write a program that displays the following pattern:
  *

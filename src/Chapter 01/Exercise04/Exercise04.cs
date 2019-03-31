@@ -1,6 +1,5 @@
 ﻿/*
  * Program: Exercise04.cs
- * Author:  Æsc Æðelstan
  * Date:    2019/03/19
  * Purpose: (Print a table) Write a program that displays the following table:
  *

@@ -1,14 +1,13 @@
 ﻿/*
  * Program: Exercise11.cs
- * Author:  Æsc Æðelstan
  * Date:    2019/03/19
  * Purpose: (Population projection) The U.S. Census Bureau projects population based on the following assumptions:
- * 			One birth every 7 seconds
- * 			One death every 13 seconds
- * 			One new immigrant every 45 seconds
+		One birth every 7 seconds
+		One death every 13 seconds
+		One new immigrant every 45 seconds
  *
- * 			Write a program to display the population for each of the next five years. Assume the current population
- * 			is 312,032,486 and one year has 365 days.
+		Write a program to display the population for each of the next five years. Assume the current population
+		is 312,032,486 and one year has 365 days.
  */
 
 using System;

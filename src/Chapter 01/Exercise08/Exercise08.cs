@@ -1,9 +1,8 @@
 ﻿/*
  * Program: Exercise08.cs
- * Author:  Æsc Æðelstan
  * Date:    2019/03/19
  * Purpose: (Area and perimeter of a circle) Write a program that displays the area and perimeter of a circle that
- * 			has a readius of 5.5 using the following formula:
+		has a readius of 5.5 using the following formula:
  
 			perimeter = 2 * radius * π
 			area = radius * radius * π

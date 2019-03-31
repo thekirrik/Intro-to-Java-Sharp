@@ -1,6 +1,5 @@
 ﻿/*
  * Program:	Exercise03.cs
- * Author:	Æsc Æðelstan
  * Date:	2019/03/25
  * Purpose:	(Algebra: solve 2 * 2 linear equations) A linear equation can be solved using
    Cramer’s rule given in Programming Exercise 1.13. Write a program that prompts

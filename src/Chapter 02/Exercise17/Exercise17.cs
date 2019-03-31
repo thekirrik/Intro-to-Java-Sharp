@@ -1,6 +1,5 @@
 ﻿/*
  * Program:	Exercise17.cs
- * Author:	Æsc Æðelstan
  * Date:	2019/03/19
  * Purpose:	(Science: wind-chill temperature) How cold is it outside? The temperature alone
     is not enough to provide the answer. Other factors including wind speed, rela-

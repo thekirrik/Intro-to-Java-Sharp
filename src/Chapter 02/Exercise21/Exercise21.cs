@@ -1,6 +1,5 @@
 ﻿/*
  * Program:	Exercise21.cs
- * Author:	Æsc Æðelstan
  * Date:	2019/03/19
  * Purpose:	(Financial application: calculate future investment value) Write a program that
    reads in investment amount, annual interest rate, and number of years, and dis-
@@ -24,7 +23,8 @@ namespace Chapter02 {
 			Console.Write("Enter number of years: ");
 			var years = double.Parse(Console.ReadLine());
 
-			Console.WriteLine($"Accumulated value: {CalculateFutureInvestmentValue(investmentAmount, monthlyInterest, years)}");
+			Console.WriteLine(
+				$"Accumulated value: {CalculateFutureInvestmentValue(investmentAmount, monthlyInterest, years)}");
 		}
 
 		private static double

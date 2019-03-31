@@ -1,6 +1,5 @@
 ﻿/*
  * Program:	Exercise07.cs
- * Author:	Æsc Æðelstan
  * Date:	2019/03/19
  * Purpose:	(Find the number of years) Write a program that prompts the user to enter the
     minutes (e.g., 1 billion), and displays the number of years and days for the min-

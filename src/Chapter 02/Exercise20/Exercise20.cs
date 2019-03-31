@@ -1,6 +1,5 @@
 ﻿/*
  * Program:	Exercise20.cs
- * Author:	Æsc Æðelstan
  * Date:	2019/03/19
  * Purpose:	 (Financial application: calculate interest) If you know the balance and the annual
    percentage interest rate, you can compute the interest on the next monthly pay-

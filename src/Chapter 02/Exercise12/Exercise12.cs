@@ -1,6 +1,5 @@
 ﻿/*
  * Program:	Exercise12.cs
- * Author:	Æsc Æðelstan
  * Date:	2019/03/19
  * Purpose:	(Physics: finding runway length) Given an airplane’s acceleration a and take-off
     speed v, you can compute the minimum runway length needed for an airplane to

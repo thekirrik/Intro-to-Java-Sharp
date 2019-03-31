@@ -1,6 +1,5 @@
 ﻿/*
  * Program:	Exercise10.cs
- * Author:	Æsc Æðelstan
  * Date:	2019/03/19
  * Purpose:	(Science: calculating energy) Write a program that calculates the energy needed
     to heat water from an initial temperature to a final temperature. Your program

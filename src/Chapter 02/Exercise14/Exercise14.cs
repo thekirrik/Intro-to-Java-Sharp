@@ -1,6 +1,5 @@
 ﻿/*
  * Program:	Exercise14.cs
- * Author:	Æsc Æðelstan
  * Date:	2019/03/19
  * Purpose:	(Health application: computing BMI) Body Mass Index (BMI) is a measure of
     health on weight. It can be calculated by taking your weight in kilograms and

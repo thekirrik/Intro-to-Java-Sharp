@@ -1,6 +1,5 @@
 ﻿/*
  * Program:	Exercise09.cs
- * Author:	Æsc Æðelstan
  * Date:	2019/03/19
  * Purpose:	(Physics: acceleration) Average acceleration is defined as the change of velocity
     divided by the time taken to make the change, as shown in the following formula:
@@ -12,7 +11,7 @@
 
 using System;
 
-namespace Exercise09 {
+namespace Chapter03 {
 	internal class Exercise09 {
 		private static void Main(string[] args) {
 			Console.WriteLine("Enter starting velocity: ");

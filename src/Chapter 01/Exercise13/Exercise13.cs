@@ -1,9 +1,8 @@
 ﻿/*
  * Program: Exercise13.cs
- * Author:  Æsc Æðelstan
  * Date:    2019/03/19
  * Purpose: (Algebra: solve 2 X 2 linear equations) You can use Cramer's rule to solve the following
- * 			2 X 2 system of linear equation:
+		2 X 2 system of linear equation:
  *
 			ax + by = e		cx + dy = f
 			x = (ed - bf) / (ad - bc)	y = (af - ec) / (ad - bc)
@@ -32,9 +31,9 @@ namespace Chapter02 {
 			Console.WriteLine(c + "x + " + d + "y = " + f + "\n");
 
 			Console.WriteLine("Cramer's Rule:");
-			x = (e * d - b * f) / (a * d - b * c);
+			x = (e * d               - b * f) / (a * d - b * c);
 			Console.WriteLine("x = " + x);
-			y = (a * f - e * c) / (a * d - b * c);
+			y = (a * f               - e * c) / (a * d - b * c);
 			Console.WriteLine("y = " + y);
 		}
 	}

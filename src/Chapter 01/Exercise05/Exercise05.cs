@@ -1,6 +1,5 @@
 ﻿/*
  * Program: Exercise05.cs
- * Author:  Æsc Æðelstan
  * Date:    2019/03/19
  * Purpose: (Compute expressions) Write a program that displays the result of
                     9.5 X 4.5 - 2.5 X 3

@@ -1,6 +1,5 @@
 ﻿/*
- * Program:	Exercise03.cs
- * Author:	Æsc Æðelstan
+ * Program:	Exercise04.cs
  * Date:	2019/03/25
  * Purpose:	(Random month) Write a program that randomly generates an integer between 1
    and 12 and displays the English month name January, February, ..., December for

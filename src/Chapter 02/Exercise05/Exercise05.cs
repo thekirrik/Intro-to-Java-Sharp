@@ -1,6 +1,5 @@
 ﻿/*
  * Program:	Exercise05.cs
- * Author:	Æsc Æðelstan
  * Date:	2019/03/19
  * Purpose:	(Financial application: calculate tips) Write a program that reads the subtotal
     and the gratuity rate, then computes the gratuity and total. For example, if the

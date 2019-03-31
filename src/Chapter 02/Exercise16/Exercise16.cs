@@ -1,6 +1,5 @@
 ﻿/*
  * Program:	Exercise16.cs
- * Author:	Æsc Æðelstan
  * Date:	2019/03/19
  * Purpose:	(Geometry: area of a hexagon) Write a program that prompts the user to enter the
     side of a hexagon and displays its area. The formula for computing the area of a

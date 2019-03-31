@@ -1,6 +1,5 @@
 ﻿/*
  * Program:	Exercise04.cs
- * Author:	Æsc Æðelstan
  * Date:	2019/03/19
  * Purpose:	(Convert pounds into kilograms) Write a program that converts pounds into kilo-
    grams. The program prompts the user to enter a number in pounds, converts it

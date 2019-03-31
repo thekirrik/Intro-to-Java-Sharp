@@ -1,6 +1,5 @@
 ﻿/*
  * Program: Exercise02.cs
- * Author:  Æsc Æðelstan
  * Date:    2019/03/19
  * Purpose: (Display five messages) Write a program that displays "Welcome to C#" five times.
  */

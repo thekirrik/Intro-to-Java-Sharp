@@ -1,6 +1,5 @@
 ﻿/*
  * Program:	Exercise02.cs
- * Author:	Æsc Æðelstan
  * Date:	2019/03/24
  * Purpose:	(Game: add three numbers) The program in Listing 3.1, AdditionQuiz.java, gen-
    erates two integers and prompts the user to enter the sum of these two integers.

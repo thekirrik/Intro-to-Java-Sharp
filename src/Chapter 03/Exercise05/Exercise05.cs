@@ -1,6 +1,5 @@
 ﻿/*
- * Program:	Exercise03.cs
- * Author:	Æsc Æðelstan
+ * Program:	Exercise05.cs
  * Date:	2019/03/25
  * Purpose:	(Find future dates) Write a program that prompts the user to enter an integer for
    today’s day of the week (Sunday is 0, Monday is 1, ..., and Saturday is 6). Also
@@ -14,7 +13,7 @@ namespace Chapter03 {
 	class Exercise05 {
 		static void Main(string[] args) {
 			string[] DAYSOFWEEK = {"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"};
-			
+
 			Console.Write("Enter today's day: ");
 			var day = int.Parse(Console.ReadLine());
 

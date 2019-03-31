@@ -1,6 +1,5 @@
 ﻿/*
  * Program:	Exercise08.cs
- * Author:	Æsc Æðelstan
  * Date:	2019/03/19
  * Purpose:	(Current time) Listing 2.7, ShowCurrentTime.java, gives a program that displays
     the current time in GMT. Revise the program so that it prompts the user to enter

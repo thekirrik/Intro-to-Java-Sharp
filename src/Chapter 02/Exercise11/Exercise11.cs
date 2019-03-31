@@ -1,6 +1,5 @@
 ﻿/*
  * Program:	Exercise11.cs
- * Author:	Æsc Æðelstan
  * Date:	2019/03/19
  * Purpose:	(Population projection) Rewrite Programming Exercise 1.11 to prompt the user
     to enter the number of years and displays the population after the number of years.

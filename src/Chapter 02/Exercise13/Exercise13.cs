@@ -1,6 +1,5 @@
 ﻿/*
  * Program:	Exercise13.cs
- * Author:	Æsc Æðelstan
  * Date:	2019/03/19
  * Purpose:	 (Financial application: compound value) Suppose you save $100 each month
     into a savings account with the annual interest rate 5%. Thus, the monthly inter-
